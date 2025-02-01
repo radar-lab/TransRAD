@@ -31,6 +31,7 @@ To be completed
 
 We sincerely acknowledge and appreciate the contributions of the following repositories, which have provided valuable references for our work:
 
+- [RMT by qhfan](https://github.com/qhfan/RMT)
 - [RADDet by ZhangAoCanada](https://github.com/ZhangAoCanada/RADDet)
 - [YOLOv8-PyTorch by bubbliiiing](https://github.com/bubbliiiing/yolov8-pytorch)
 
