@@ -1,6 +1,3 @@
-#-------------------------------------#
-#       对数据集进行训练
-#-------------------------------------#
 import datetime
 import os
 from functools import partial
