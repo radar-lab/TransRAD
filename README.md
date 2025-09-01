@@ -26,9 +26,20 @@ The experimental results demonstrate that TransRAD outperforms state-of-the-art 
 </center>
 
 ## Train and Test
-```
-To be completed
-```
+
+### Dataset preparation
+You need to use the RADDet radar dataset for training. 
+
+Please refer to [RADDet by ZhangAoCanada](https://github.com/ZhangAoCanada/RADDet) for preparing the dataset
+
+## Train
+You can just use the **`Train.py`** to train the TransRAD model. 
+
+You may change the configuration per your needs.
+
+## Test
+You can just use the **`Test.py`** to get the testing results after training your model. 
+
 
 ## Acknowledgment
 
